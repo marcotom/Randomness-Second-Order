@@ -1,2 +1,7 @@
-# cache and other artifacts produced by Lean's Lake build tool
+.DS_Store
 .lake/
+lake-packages/
+*.olean
+*.ilean
+*.c
+*.o
