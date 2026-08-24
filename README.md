@@ -1,8 +1,8 @@
 # Exact second-order classical randomness extraction
 
 This repository contains the Lean 4 formalization accompanying the paper
-*Exact Second-Order Classical Randomness Extraction Under \(f\)-Divergence
-Criteria* by Mario Berta, Hao-Chung Cheng, and Marco Tomamichel.
+*Exact Second-Order Classical Randomness Extraction Under f-Divergence
+Criteria*.
 
 The formalization covers every numbered theorem, corollary, lemma,
 proposition, fact, and definition in the manuscript. It uses only mathlib.
