@@ -135,8 +135,3 @@ flowchart TD
 
 Every external import begins with `Mathlib`. The sole package dependency in
 `lakefile.toml` is mathlib; no other Lean library is used.
-
-## Before publishing
-
-No software license has been selected for this export. Add the authors'
-chosen `LICENSE` file before making the repository public.
